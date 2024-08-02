@@ -58,7 +58,7 @@ Implemente o **AuthModule** e registre a classe **Bcrypt :**
 
 
 
-## **4. Testes **
+## 4. Testes 
 
 #### **CENÁRIOS POSITIVOS**
 
